@@ -1,3 +1,6 @@
+## The functions make CacheMatrix and cacheSolve allow the caching and 
+## retrieval of the calculated inverse of a matrix to save computing
+
 ## makeCacheMatrix is a function of four functions needed to set up 
 ## a caching matrix, get the data for the original matrix, invert the 
 ## matrix and cache the inverted matrix
